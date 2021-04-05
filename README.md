@@ -39,7 +39,9 @@ This repo consists of an OpenCV Application that can track an object's movement 
 
 ## Live Example
 A live example of the application can be seen in the below image.
-<img style="margin-top: 20px" src="./Image.png" />
+<br>
+<br>
+<img src="./Image.png" />
 
 ## Acknowledgements
 I have made this application with the help of a Medium tutorial, which can be found [here](https://towardsdatascience.com/tutorial-webcam-paint-opencv-dbe356ab5d6c).
